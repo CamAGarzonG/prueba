@@ -8,4 +8,6 @@ public class Calculator {
         this.number2 = number2;
         this.result = result;
     }
+
+    
 }
