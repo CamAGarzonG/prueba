@@ -9,5 +9,14 @@ public class Calculator {
         this.result = result;
     }
 
+    public float sum(){
+        this.result=this.number1+this.number2;
+        return result;
+    }
+
+    public float substract(){
+        this.result=this.number1-this.number2;
+        return result;
+    }
     
 }
